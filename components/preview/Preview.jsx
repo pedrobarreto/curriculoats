@@ -172,7 +172,7 @@ const Preview = () => {
               {resumeData.summary.length > 0 && (
                 <div className="mb-1">
                   <h2 className="section-title mb-1 border-b-2 border-gray-300">
-                    Summary
+                    Resumo
                   </h2>
                   <p className="content break-words">{resumeData.summary}</p>
                 </div>
@@ -181,7 +181,7 @@ const Preview = () => {
                 {resumeData.education.length > 0 && (
                   <div className="mb-1">
                     <h2 className="section-title mb-1 border-b-2 border-gray-300">
-                      Education
+                      Formação
                     </h2>
                     {resumeData.education.map((item, index) => (
                       <div key={index} className="mb-1">
@@ -225,9 +225,9 @@ const Preview = () => {
                   </div>
                 )}
               </Droppable>
-              <Language title="Languages" languages={resumeData.languages} />
+              <Language title="Idiomas" languages={resumeData.languages} />
               <Certification
-                title="Certifications"
+                title="Certificados"
                 certifications={resumeData.certifications}
               />
             </div>
@@ -241,7 +241,7 @@ const Preview = () => {
                         contentEditable
                         suppressContentEditableWarning
                       >
-                        Work Experience
+                        Experiência Profissional
                       </h2>
                       {resumeData.workExperience.map((item, index) => (
                         <Draggable
@@ -325,7 +325,7 @@ const Preview = () => {
                         contentEditable
                         suppressContentEditableWarning
                       >
-                        Projects
+                        Projetos
                       </h2>
                       {resumeData.projects.map((item, index) => (
                         <Draggable
