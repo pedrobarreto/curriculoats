@@ -31,7 +31,7 @@ const LoadUnload = () => {
     <div className="flex flex-wrap gap-4 mb-2 justify-center">
       <div className="inline-flex flex-row items-center gap-2">
         <h2 className="text-[1.2rem] text-white">Importar Json</h2>
-        <label className="p-2 text-white bg-fuchsia-700 rounded cursor-pointer">
+        <label className="p-2 text-white bg-blue-700 rounded cursor-pointer">
           <FaCloudUploadAlt className="text-[1.2rem] text-white" />
           <input
             aria-label="Load Data"
@@ -46,7 +46,7 @@ const LoadUnload = () => {
         <h2 className="text-[1.2rem] text-white">Salvar Json</h2>
         <button
           aria-label="Save Data"
-          className="p-2 text-white bg-fuchsia-700 rounded"
+          className="p-2 text-white bg-blue-700 rounded"
           onClick={(event) =>
             handleDownload(
               resumeData,
