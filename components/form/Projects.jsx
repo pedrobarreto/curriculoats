@@ -37,12 +37,12 @@ const Projects = () => {
 
   return (
     <div className="flex-col-gap-2">
-      <h2 className="input-title">Projects</h2>
+      <h2 className="input-title">Projetos</h2>
       {resumeData.projects.map((project, index) => (
         <div key={index} className="f-col">
           <input
             type="text"
-            placeholder="Project Name"
+            placeholder="Nome"
             name="name"
             className="w-full other-input"
             value={project.name}
@@ -58,7 +58,7 @@ const Projects = () => {
           />
           <textarea
             type="text"
-            placeholder="Description"
+            placeholder="Descrição"
             name="description"
             className="w-full other-input h-32"
             value={project.description}
@@ -67,7 +67,7 @@ const Projects = () => {
           />
           <textarea
             type="text"
-            placeholder="Key Achievements"
+            placeholder="Principais realizações"
             name="keyAchievements"
             className="w-full other-input h-40"
             value={project.keyAchievements}
