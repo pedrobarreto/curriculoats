@@ -133,7 +133,7 @@
         overflow-y: visible !important;
     }
 
-    .preview::after {
+    /* .preview::after {
         content: "Created using https://atsresume.vercel.app/";
         position: fixed;
         bottom: 0;
@@ -142,5 +142,5 @@
         font-size: small;
         text-align: center;
         z-index: -1;
-    }
+    } */
 }
