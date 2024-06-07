@@ -1,6 +1,6 @@
 const DefaultResumeData = {
   name: "Pedro Barreto",
-  position: "Desenvolvedor",
+  position: "Desenvolvedor Full Stack",
   contactInformation: "+55-21-5555-0100",
   email: "email@exemplo.com",
   address: "Rio de Janeiro, RJ",
@@ -31,7 +31,7 @@ const DefaultResumeData = {
   workExperience: [
     {
       "company": "Tech Solutions",
-      "position": "Desenvolvedor",
+      "position": "Desenvolvedor Full Stack",
       "description": "Tech Solutions é uma empresa global de software que oferece ferramentas e componentes de desenvolvimento de interface de usuário (UI) para uma variedade de aplicativos de desenvolvedores em todas as plataformas.",
       "keyAchievements": "Criei e mantive 10 aplicações web para inúmeros clientes nacionais e estrangeiros.\nGarantiu que as interfaces de usuário e a experiência do usuário dos aplicativos de software desenvolvidos pela equipe atendessem pelo menos 80% das expectativas dos usuários.\nCriei e analisei 500 casos de teste unitário.\nDesenvolvi scripts em Python para automatizar o processo de redução de ruído de imagens, o que ajudou a melhorar o tempo de análise de pesquisa em 40%.\nEstabeleci e liderei uma equipe de 10 pessoas, cobrindo todos os papéis-chave nas fases iniciais.",
       "startYear": "2022-03-16",
