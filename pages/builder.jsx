@@ -60,10 +60,11 @@ export default function Builder(props) {
         }}
       >
         <Meta
-          title="ATSResume | Get hired with an ATS-optimized resume"
-          description="ATSResume is a cutting-edge resume builder that helps job seekers create a professional, ATS-friendly resume in minutes. Our platform uses the latest technology to analyze and optimize your resume for maximum visibility and success with applicant tracking systems. Say goodbye to frustration and wasted time spent on manual resume formatting. Create your winning resume with ATSResume today and get noticed by employers."
-          keywords="ATS-friendly, Resume optimization, Keyword-rich resume, Applicant Tracking System, ATS resume builder, ATS resume templates, ATS-compliant resume, ATS-optimized CV, ATS-friendly format, ATS resume tips, Resume writing services, Career guidance, Job search in India, Resume tips for India, Professional resume builder, Cover letter writing, Interview preparation, Job interview tips, Career growth, Online job applications, resume builder, free resume builder, resume ats, best free resume builder, resume creator, resume cv, resume design, resume editor, resume maker"
-        />
+    title="Construa currículos otimizados para ATS e conquiste as melhores vagas em plataformas como Gupy, 99Jobs, entre outras"
+    description="CurriculoATS é uma ferramenta avançada de construção de currículos que ajuda profissionais a criar currículos profissionais e compatíveis com sistemas de rastreamento de candidatos (ATS) em minutos. Utilizamos tecnologia de ponta para analisar e otimizar seu currículo para máxima visibilidade e sucesso com os sistemas de rastreamento de candidatos. Diga adeus à frustração e ao tempo desperdiçado com a formatação manual de currículos. Crie seu currículo vencedor com CurriculoATS hoje e seja notado pelos empregadores."
+    keywords="ATS-friendly, Otimização de currículo, Currículo rico em palavras-chave, Sistema de rastreamento de candidatos, Construtor de currículo ATS, Modelos de currículo ATS, Currículo compatível com ATS, CV otimizado para ATS, Formato amigável para ATS, Dicas de currículo ATS, Serviços de redação de currículo, Orientação de carreira, Busca de emprego no Brasil, Dicas de currículo para o Brasil, Construtor de currículo profissional, Redação de carta de apresentação, Preparação para entrevistas, Dicas de entrevistas de emprego, Crescimento profissional, Candidaturas de emprego online, construtor de currículo gratuito, construtor de currículo ats, melhor construtor de currículo gratuito, criador de currículo, currículo cv, design de currículo, editor de currículo, criador de currículo online"
+  />
+
         <div className="f-col gap-4 md:flex-row justify-evenly max-w-7xl md:mx-auto md:h-screen">
           {!formClose && (
             <form className="p-4 bg-blue-600 exclude-print md:max-w-[40%] md:h-screen md:overflow-y-scroll">
