@@ -32,16 +32,16 @@ const DefaultResumeData = {
     {
       "company": "Tech Solutions",
       "position": "Desenvolvedor Full Stack",
-      "description": "Tech Solutions é uma empresa global de software que oferece ferramentas e componentes de desenvolvimento de interface de usuário (UI) para uma variedade de aplicativos de desenvolvedores em todas as plataformas.",
-      "keyAchievements": "Criei e mantive 10 aplicações web para inúmeros clientes nacionais e estrangeiros.\nGarantiu que as interfaces de usuário e a experiência do usuário dos aplicativos de software desenvolvidos pela equipe atendessem pelo menos 80% das expectativas dos usuários.\nCriei e analisei 500 casos de teste unitário.\nDesenvolvi scripts em Python para automatizar o processo de redução de ruído de imagens, o que ajudou a melhorar o tempo de análise de pesquisa em 40%.\nEstabeleci e liderei uma equipe de 10 pessoas, cobrindo todos os papéis-chave nas fases iniciais.",
+      "description": "Tech Solutions é uma empresa global de software que oferece ferramentas e componentes de desenvolvimento de interface de usuário (UI).",
+      "keyAchievements": "Criei e mantive 10 aplicações web para inúmeros clientes nacionais e estrangeiros.\nGarantiu que as interfaces de usuário e a experiência do usuário dos aplicativos de software desenvolvidos pela equipe atendessem pelo menos 80% das expectativas dos usuários.\nEstabeleci e liderei uma equipe de 10 pessoas, cobrindo todos os papéis-chave nas fases iniciais.",
       "startYear": "2022-03-16",
       "endYear": "2024-01-16"
     },
     {
       "company": "Grupo Tech",
       "position": "Desenvolvedor Front End",
-      "description": "O Grupo Tech é um provedor líder de soluções e software de jogos de azar online.",
-      "keyAchievements": "Aumentei em 35% o alcance de usuários à plataforma, com a instalação da plataforma web em dispositivos móveis.\nEntreguei 30 soluções web.\nSubstituí 1 desenvolvedor web em tempo integral por um empregado em meio período, alcançando um ganho de produtividade superior a 60% medido por horas de trabalho.\nTrabalhei com mais de 4 equipes diferentes em momentos distintos e forneci soluções de ponta a ponta para os clientes.",
+      "description": "O Grupo Tech é um provedor líder de soluções e software.",
+      "keyAchievements": "Aumentei em 35% o alcance de usuários à plataforma, com a instalação da plataforma web em dispositivos móveis.\nEntreguei 30 soluções web.\nSubstituí 1 desenvolvedor web em tempo integral por um empregado em meio período, alcançando um ganho de produtividade superior a 60% medido por horas de trabalho.",
       "startYear": "2021-01-22",
       "endYear": "2022-01-22"
     },
