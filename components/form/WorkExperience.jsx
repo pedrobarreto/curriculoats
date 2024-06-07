@@ -40,12 +40,12 @@ const WorkExperience = () => {
 
   return (
     <div className="flex-col-gap-2">
-      <h2 className="input-title">Work Experience</h2>
+      <h2 className="input-title">Experiência Profissional</h2>
       {resumeData.workExperience.map((workExperience, index) => (
         <div key={index} className="f-col">
           <input
             type="text"
-            placeholder="Company"
+            placeholder="Empresa"
             name="company"
             className="w-full other-input"
             value={workExperience.company}
@@ -53,7 +53,7 @@ const WorkExperience = () => {
           />
           <input
             type="text"
-            placeholder="Job Title"
+            placeholder="Cargo"
             name="position"
             className="w-full other-input"
             value={workExperience.position}
@@ -61,7 +61,7 @@ const WorkExperience = () => {
           />
           <textarea
             type="text"
-            placeholder="Description"
+            placeholder="Descrição"
             name="description"
             className="w-full other-input h-32"
             value={workExperience.description}
@@ -70,7 +70,7 @@ const WorkExperience = () => {
           />
           <textarea
             type="text"
-            placeholder="Key Achievements"
+            placeholder="Principais realizações"
             name="keyAchievements"
             className="w-full other-input h-40"
             value={workExperience.keyAchievements}

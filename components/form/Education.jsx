@@ -30,7 +30,7 @@ const Education = () => {
     
     return (
       <div className="flex-col-gap-2">
-        <h2 className="input-title">Education</h2>
+        <h2 className="input-title">Formação</h2>
         {resumeData.education.map((education, index) => (
           <div key={index} className="f-col">
             <input

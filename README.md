@@ -1,122 +1,113 @@
-# ATSResume
+# CurriculoATS
 
-A cutting-edge resume builder that helps job seekers create a professional, ATS-friendly resume in minutes. Our platform uses the latest technology to analyze and optimize your resume for maximum visibility and success with applicant tracking systems. Say goodbye to frustration and wasted time spent on manual resume formatting. Create your winning resume with ATSResume today and get noticed by employers.
+Este é um fork do repositório de Saurav Hathi, adaptado para o contexto brasileiro e alinhado com as recomendações de ATS (Applicant Tracking Systems) para garantir reconhecimento e ranqueamento eficazes em plataformas de RH como Gupy, Recrutei, entre outras.
 
-## Demo
+## Demonstração
 
 #### [https://atsresume.vercel.app/](https://atsresume.vercel.app/)
 ![image](https://user-images.githubusercontent.com/61316762/218017511-fbbaa7da-6154-449f-9e46-8de45b0e6c29.png)
 
-### Resume Score
-#### https://www.resumego.net/resume-checker/
+### Pontuação do Currículo
+#### [https://www.resumego.net/resume-checker/](https://www.resumego.net/resume-checker/)
 ![image](https://user-images.githubusercontent.com/61316762/218143206-f0e5e764-52bc-4c25-84f2-6b2fff00cd4b.png)
 
-## Change Log
+## Registro de Alterações
 
-- Drag and drop sections to reorder them in the resume(Work Experience, Projects, Skills)
+- Arraste e solte as seções para reordená-las no currículo (Experiência de Trabalho, Projetos, Habilidades)
 
-## Sections
+## Seções
 
-- [Personal Information](#personal-information)
-- [Social Media](#social-media)
-- [Summary](#summary)
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
-- [Technical Skills](#technical-skills)
-- [Soft Skills](#soft-skills)
-- [Languages](#languages)
-- [Additional Skills](#additional-skills)
-- [Certifications](#certifications)
+- [Informações Pessoais](#personal-information)
+- [Mídias Sociais](#social-media)
+- [Resumo](#summary)
+- [Educação](#education)
+- [Experiência Profissional](#work-experience)
+- [Projetos](#projects)
+- [Habilidades Técnicas](#technical-skills)
+- [Habilidades Interpessoais](#soft-skills)
+- [Idiomas](#languages)
+- [Habilidades Adicionais](#additional-skills)
+- [Certificações](#certifications)
 
-## Personal Information
+## Informações Pessoais
 
-- Name
-- Email
-- Phone
-- Address
-- Profile Picture
+- Nome
+- E-mail
+- Telefone
+- Endereço
+- Foto de Perfil
 
-## Social Media
+## Mídias Sociais
 
-- Social Media Links
+- Links de Mídias Sociais
 
-## Summary
+## Resumo
 
-- Summary
+- Resumo
 
-## Education
+## Educação
 
-- Degree
-- Institute
-- Start Date
-- End Date
+- Grau
+- Instituto
+- Data de Início
+- Data de Término
 
-## Work Experience
+## Experiência Profissional
 
-- Company
-- Designation
-- Description
-- Key Achievements
-- Start Date
-- End Date
+- Empresa
+- Cargo
+- Descrição
+- Principais Realizações
+- Data de Início
+- Data de Término
 
-Description optional
+Descrição opcional
 
-## Projects
+## Projetos
 
-- Project Name
-- Description
-- key Achievements
-- Start Date
-- End Date
+- Nome do Projeto
+- Descrição
+- Principais Realizações
+- Data de Início
+- Data de Término
 
-Description optional
+Descrição opcional
 
-## Technical Skills
+## Habilidades Técnicas
 
-- Technical Skills
+- Habilidades Técnicas
 
-## Soft Skills
+## Habilidades Interpessoais
 
-- Soft Skills
+- Habilidades Interpessoais
 
-## Languages
+## Idiomas
 
-- Languages
+- Idiomas
 
-## Additional Skills
+## Habilidades Adicionais
 
-- Additional Skills
+- Habilidades Adicionais
 
-## Certifications
+## Certificações
 
-- Certifications
+- Certificações
 
-## How to Add Key Achievements
+## Como Adicionar Principais Realizações
 
-Key achievements are the most important part of your resume. 
+As principais realizações são a parte mais importante do seu currículo.
 
-- Add key achievements to your resume to make it more attractive and increase your chances of getting noticed by employers.
-- Add key achievements to your work experience and projects.
-- Add key achievements to your resume by clicking on the new line.
+- Adicione principais realizações ao seu currículo para torná-lo mais atrativo e aumentar suas chances de ser notado pelos empregadores.
+- Adicione principais realizações à sua experiência de trabalho e projetos.
+- Adicione principais realizações ao seu currículo clicando na nova linha.
 
-## PageSpeed Insights
 
-![image](https://user-images.githubusercontent.com/61316762/218244257-e85172dc-46bd-4f4b-b9c2-9bd17c693cc8.png)
+## Contribuição
 
-![image](https://user-images.githubusercontent.com/61316762/218244267-c46f5d02-b742-4b4c-ba7e-ae1bfb1e04d4.png)
+Pull requests são bem-vindos. Para mudanças importantes, abra primeiro um problema para discutir o que você gostaria de mudar.
 
-## License
+Certifique-se de atualizar os testes conforme apropriado.
 
-[MIT](https://github.com/sauravhathi/atsresume/blob/main/LICENSE.md)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## Authors and acknowledgment
+## Autores e Reconhecimentos
 
 - [Saurav Hathi](https://github.com/sauravhathi)

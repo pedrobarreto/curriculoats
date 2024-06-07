@@ -5,7 +5,7 @@ import FormButton from "./FormButton";
 const Certification = () => {
   const { resumeData, setResumeData } = useContext(ResumeContext);
   const skillType = "certifications";
-  const title = "Certifications";
+  const title = "Certificados";
 
   const handleSkills = (e, index, skillType) => {
     const newSkills = [...resumeData[skillType]];

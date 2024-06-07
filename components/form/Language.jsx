@@ -5,7 +5,7 @@ import FormButton from "./FormButton";
 const Language = () => {
   const { resumeData, setResumeData } = useContext(ResumeContext);
   const skillType = "languages";
-  const title = "Languages";
+  const title = "Idiomas";
   const placeholder = "Language";
 
   const handleSkills = (e, index, skillType) => {

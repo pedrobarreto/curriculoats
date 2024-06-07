@@ -4,7 +4,7 @@ const Summary = () => {
   const { resumeData, setResumeData, handleChange } = useContext(ResumeContext);
   return (
     <div className="flex-col-gap-2">
-      <h2 className="input-title">Summary</h2>
+      <h2 className="input-title">Resumo</h2>
       <div className="grid-4">
         <textarea
           placeholder="Summary"
