@@ -31,12 +31,12 @@ const SocialMedia = () => {
 
   return (
     <div className="flex-col-gap-2">
-      <h2 className="input-title">Social Media</h2>
+      <h2 className="input-title">Mídias Sociais</h2>
       {resumeData.socialMedia.map((socialMedia, index) => (
         <div key={index} className="flex-wrap-gap-2">
           <input
             type="text"
-            placeholder="Social Media"
+            placeholder="Mídia Social"
             name="socialMedia"
             className="other-input"
             value={socialMedia.socialMedia}
