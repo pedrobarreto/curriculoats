@@ -19,20 +19,20 @@ export default function Meta({ title, keywords, description }) {
                 },
                 "image": ${logo},
                 "description": ${description},
-                "founder": "Saurav Hathi",
-                "foundingDate": "2023",
-                "foundingLocation": "IN",
-                "email": "xyz@gmail.com",
+                "founder": "Pedro Barreto",
+                "foundingDate": "2024",
+                "foundingLocation": "BR",
+                "email": "pedrobarreto@live.com",
                 "telephone": "+91 9999999999",
                 "areaServed": "IN",
                 "keywords": ${keywords},
                 "mainEntityOfPage": ${homepage},
                 "knowsAbout": ${keywords},
                 "knowsLanguage": "English",
-                "memberOf": "Saurav Hathi",
-                "owns": "Saurav Hathi",
+                "memberOf": "Pedro Barreto",
+                "owns": "Pedro Barreto",
                 "publishingPrinciples": ${homepage},
-                "slogan": "Get hired with an ATS-optimized resume"
+                "slogan": "Consiga as melhores vagas em plataformas de RH como Gupy, 99Jobs, entre outras."
             }`
         }
     }
@@ -46,8 +46,8 @@ export default function Meta({ title, keywords, description }) {
             <meta charSet="utf-8" />
             <link rel="icon" href={fevicon} />
             <title>{title}</title>
-            <meta type="copyright" content="ATSResume" />
-            <meta type="author" content="Saurav Hathi" />
+            <meta type="copyright" content="CurriculoATS" />
+            <meta type="author" content="Pedro Barreto" />
             {/* Open Graph */}
             <meta property="og:type" content="website" />
             <meta property="og:url" content={homepage} />
