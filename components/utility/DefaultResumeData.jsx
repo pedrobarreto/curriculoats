@@ -1,6 +1,6 @@
 const DefaultResumeData = {
-  name: "Pedro Barreto",
-  position: "Desenvolvedor Full Stack",
+  name: "João Silva",
+  position: "Desenvolvedor de Software",
   contactInformation: "+55-21-5555-0100",
   email: "email@exemplo.com",
   address: "Rio de Janeiro, RJ",
@@ -8,22 +8,22 @@ const DefaultResumeData = {
   socialMedia: [
     {
       socialMedia: "Github",
-      link: "github.com/pedrobarreto",
+      link: "github.com/seugithub",
     },
     {
       socialMedia: "LinkedIn",
-      link: "linkedin.com/in/barreto-pedro",
+      link: "linkedin.com/in/seu-linkedin",
     },
     {
       socialMedia: "Website",
-      link: "pedrobarreto.me",
+      link: "joaosilvapessoal.com",
     },
   ],
-  summary: "Desenvolvedor versátil com 11 anos de experiência em projetar e desenvolver interfaces de usuário, testar e treinar funcionários. Habilidoso na utilização de uma ampla variedade de ferramentas e programas para fornecer aplicativos eficazes.",
+  summary: "Desenvolvedor versátil com experiência em projetar e desenvolver interfaces de usuário, testar e treinar funcionários. Habilidoso na utilização de uma ampla variedade de ferramentas e programas para fornecer aplicativos eficazes.",
   education: [
     {
       "school": "Bacharelado em Ciência da Computação",
-      "degree": "Universidade de São Paulo",
+      "degree": "Universidade Federal",
       "startYear": "2020-08-20",
       "endYear": "2024-07-01"
     },
@@ -31,9 +31,9 @@ const DefaultResumeData = {
   workExperience: [
     {
       "company": "Tech Solutions",
-      "position": "Desenvolvedor Full Stack",
+      "position": "Desenvolvedor de Software",
       "description": "Tech Solutions é uma empresa global de software que oferece ferramentas e componentes de desenvolvimento de interface de usuário (UI).",
-      "keyAchievements": "Criei e mantive 10 aplicações web para inúmeros clientes nacionais e estrangeiros.\nGarantiu que as interfaces de usuário e a experiência do usuário dos aplicativos de software desenvolvidos pela equipe atendessem pelo menos 80% das expectativas dos usuários.\nEstabeleci e liderei uma equipe de 10 pessoas, cobrindo todos os papéis-chave nas fases iniciais.",
+      "keyAchievements": "Criei e mantive aplicações web para diversos clientes nacionais e estrangeiros.\nGaranti que as interfaces de usuário e a experiência do usuário dos aplicativos desenvolvidos atendessem às expectativas dos usuários.\nEstabeleci e liderei equipes para garantir o sucesso dos projetos.",
       "startYear": "2022-03-16",
       "endYear": "2024-01-16"
     },
@@ -41,15 +41,15 @@ const DefaultResumeData = {
       "company": "Grupo Tech",
       "position": "Desenvolvedor Front End",
       "description": "O Grupo Tech é um provedor líder de soluções e software.",
-      "keyAchievements": "Aumentei em 35% o alcance de usuários à plataforma, com a instalação da plataforma web em dispositivos móveis.\nEntreguei 30 soluções web.\nSubstituí 1 desenvolvedor web em tempo integral por um empregado em meio período, alcançando um ganho de produtividade superior a 60% medido por horas de trabalho.",
+      "keyAchievements": "Aumentei a usabilidade da plataforma web em dispositivos móveis, expandindo o alcance de usuários.\nEntreguei várias soluções web que agregaram valor aos clientes.\nContribuí para melhorias significativas na produtividade da equipe.",
       "startYear": "2021-01-22",
       "endYear": "2022-01-22"
     },
     {
-      "company": "LogiTech",
+      "company": "TechBrasil",
       "position": "Desenvolvedor Python",
-      "description": "A LogiTech é uma editora de software especializada em gerenciamento de logística.",
-      "keyAchievements": "Desenvolvi vários sistemas de automação - economizando mais de R$250.000 anualmente.\nEntrei na equipe como o 10º funcionário, trabalhando diretamente com os maiores clientes.\nEnvovido na codificação conforme a necessidade, entregando bem antes do prazo, o que economizou 20% do custo do projeto.\nReduzi o tamanho do banco de dados em quase 50% e melhorei seu desempenho em 20%.\nTempo de entrega de mercadorias reduzido em 50%.",
+      "description": "A TechBrasil é uma editora de software especializada em gerenciamento de logística.",
+      "keyAchievements": "Desenvolvi sistemas de automação que geraram economia significativa para a empresa.\nTrabalhei diretamente com clientes de grande porte para atender às suas necessidades específicas.\nEntreguei projetos com alta qualidade e dentro do prazo estabelecido.",
       "startYear": "2017-01-10",
       "endYear": "2021-01-10"
     }
@@ -68,12 +68,6 @@ const DefaultResumeData = {
         "Colaboração", "Resolução de Problemas", "Comunicação"
       ]
     },
-    // {
-    //   title: "Habilidades Adicionais",
-    //   skills: [
-    //     "Falar em Público", "Escrita", "Pesquisa"
-    //   ] 
-    // }
   ],
   languages: [
     "Português",
