@@ -4,8 +4,8 @@ Este é um fork do repositório de Saurav Hathi, adaptado para o contexto brasil
 
 ## Demonstração
 
-#### [https://atsresume.vercel.app/](https://atsresume.vercel.app/)
-![image](https://user-images.githubusercontent.com/61316762/218017511-fbbaa7da-6154-449f-9e46-8de45b0e6c29.png)
+#### [https://geradorcv.pedrobarreto.me/](https://geradorcv.pedrobarreto.me/)
+![image](https://raw.githubusercontent.com/pedrobarreto/curriculoats/main/public/assets/screenshot.png)
 
 ### Pontuação do Currículo
 #### [https://www.resumego.net/resume-checker/](https://www.resumego.net/resume-checker/)
