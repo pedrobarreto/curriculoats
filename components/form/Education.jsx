@@ -35,14 +35,14 @@ const Education = () => {
           <div key={index} className="f-col">
             <input
               type="text"
-              placeholder="School"
+              placeholder="Instituição"
               name="school"
               className="w-full other-input"
               value={education.school}
               onChange={(e) => handleEducation(e, index)} />
             <input
               type="text"
-              placeholder="Degree"
+              placeholder="Grau"
               name="degree"
               className="w-full other-input"
               value={education.degree}

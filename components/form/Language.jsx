@@ -6,7 +6,7 @@ const Language = () => {
   const { resumeData, setResumeData } = useContext(ResumeContext);
   const skillType = "languages";
   const title = "Idiomas";
-  const placeholder = "Language";
+  const placeholder = "Idioma";
 
   const handleSkills = (e, index, skillType) => {
     const newSkills = [...resumeData[skillType]];
